@@ -1,4 +1,4 @@
-A bot that helps to track the running time of programs remotely through the Telegram system. 
+A bot that helps to track the running time of programs remotely through the Telegram system. PS: Based on telebot library
 
 First version
 1) To customize for yourself, you should enter your token received from BotFather in line 20. 
