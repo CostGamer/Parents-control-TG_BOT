@@ -2,6 +2,8 @@
 
 A bot that helps to track the running time of programs remotely through the Telegram system. PS: Based on the telebot library.
 
+This project is created for educational purposes by Vladimir Bryzgalov and Danil Belousov.
+
 This Telegram bot is designed to track the running time of various applications and close them if needed. The bot uses the `psutil` library to interact with system processes and the `telebot` library to interact with the Telegram API.
 
 ## Features
